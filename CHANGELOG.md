@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/stevearc/conform.nvim/compare/v3.1.0...v3.1.1) (2023-09-14)
+
+
+### Bug Fixes
+
+* extra trailing newline for LSP formatters that replace entire file ([e18cdaf](https://github.com/stevearc/conform.nvim/commit/e18cdaf529b94465592d0c2afe1b62bc26155070))
+
 ## [3.1.0](https://github.com/stevearc/conform.nvim/compare/v3.0.0...v3.1.0) (2023-09-13)
 
 
